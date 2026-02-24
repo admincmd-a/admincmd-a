@@ -1,6 +1,5 @@
 # AdminCmd
-*/ Vocaloid / Minecraft / 初中牲 / ![ENFP-T](https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/enfp-t/x/pp86bfcz)*
-
+*/ Vocaloid / Minecraft / 初中牲 / [INFP-T](https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/infp-t/m/nen53wp9l)*
 ## 简介
 - 土生土长的南方\湖北\武汉人，不太喜欢吵闹之处（故不太喜欢出门）
 - 极度不喜欢人情这种东东，曾为维护他人合法利益斗争过 2 次<!--（我妈看人面子出停车场逃费）-->，均以胜利告终（这也可能是为什么我道法好吧）
