@@ -1,11 +1,11 @@
-# AdminCmd
+<img width="1191" height="460" alt="QQ_1789264921549" src="https://github.com/user-attachments/assets/d042f701-c698-45c0-b6f8-2a2bcd9b2db8" /># AdminCmd
 */ Vocaloid / Minecraft / ~~初中牲~~ 准高一牲 / [INFP-T](https://www.16personalities.com/ch/infp-人格)*
 ## 简介
 - 土生土长的南方\湖北\武汉人，不太喜欢吵闹之处（故不太喜欢出门）
 - 极度不喜欢人情这种东东，曾为维护他人合法利益斗争过 2 次<!--（我妈看人面子出停车场逃费）-->，均以胜利告终（这也可能是为什么我道法好吧）
 - 苏格兰(English)语分数可以维持毕业
 - 技术栈主要在前端，其次是Windows应用开发，在其次是后端
-- 主要经营语言：JavaScript、CSS、HTML，以及引出的Pug语言(排名不分先后)
+- 主要经营语言：JavaScript、CSS、HTML,Astro，以及引出的Pug语言(排名不分先后)
 - 次要经营语言：Java、VB、TypeScript、C++、C#、Bash、PowerShell(排名不分先后)
 - 喜欢二次元音乐，喜欢听 Vocaloid，所以喜欢 *洛天依、Miku、乐正绫*
 - ACGN
