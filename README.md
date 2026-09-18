@@ -1,7 +1,7 @@
 <!-- <img width="1191" height="460" alt="QQ_1789264921549" src="https://github.com/user-attachments/assets/d042f701-c698-45c0-b6f8-2a2bcd9b2db8" />
 *我现在有个问题* -->
 # AdminCmd
-*/ Vocaloid / Minecraft / ~~初中牲~~ 准高一牲 / [INFP-T](https://www.16personalities.com/ch/infp-人格) /*
+<span style="text-align: center;"> */ Vocaloid / Minecraft / ~~初中牲~~ 准高一牲 / [INFP-T](https://www.16personalities.com/ch/infp-人格) /* </span>
 ## 简介
 - 土生土长的南方\湖北\武汉人，不太喜欢吵闹之处（故不太喜欢出门）
 - 极度不喜欢人情这种东东，曾为维护他人合法利益斗争过 2 次<!--（我妈看人面子出停车场逃费）-->，均以胜利告终（这也可能是为什么我道法好吧）
