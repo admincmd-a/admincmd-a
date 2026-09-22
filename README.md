@@ -7,7 +7,7 @@
 - 极度不喜欢人情这种东东，曾为维护他人合法利益斗争过 2 次，均以胜利告终（这也可能是为什么我道法好吧）
 - 苏格兰(English)语分数可以维持毕业
 - 技术栈主要在前端，其次是Windows应用开发，在其次是后端
-- 主要经营语言：JavaScript、CSS、HTML,Astro，以及引出的Pug语言(排名不分先后)
+- 主要经营语言：JavaScript、CSS、HTML、Astro，以及引出的 Pug 语言(排名不分先后)
 - 次要经营语言：Java、VB、TypeScript、C++、C#、Bash、PowerShell(排名不分先后)
 - 喜欢二次元音乐，喜欢听 Vocaloid，所以喜欢 *洛天依、Miku、乐正绫*
 - ACGN
